@@ -1,6 +1,10 @@
-### Hi there 👋
+[![Paal's top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paalss&layout=compact&exclude_lang=java+r&theme=blue-green)](https://github.com/paalss/github-readme-stats)
 
 <!--
+nyttige lenker:
+https://github.com/ryo-ma/github-profile-trophy
+https://github.com/Naereen/badges
+
 **paalss/paalss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
