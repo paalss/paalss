@@ -1,5 +1,33 @@
-[![Paal's top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paalss&layout=compact&exclude_lang=java+r&theme=blue-green)](https://github.com/paalss/github-readme-stats)
+![Paal's top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paalss&layout=compact&exclude_lang=java+r&theme=blue-green)
 
+
+<pre>
+  <p align=center>
+   ^
+   /_\
+   | :|
+   |0.|
+   /] :[\
+   /_]_.[_\
+  (  )
+   \ /
+   ||
+   ||
+  </p>
+</pre>
+
+<p align=center>
+ ^ <br>
+ /_\ <br>
+ |&nbsp;&nbsp;:| <br>
+ |0.| <br>
+ /]&nbsp;&nbsp;:[\ <br>
+ /_]_.[_\  <br>
+(&nbsp;&nbsp;) <br>
+ \&nbsp;/ <br>
+ || <br>
+ ||
+</p>
 <!--
 nyttige lenker:
 https://github.com/ryo-ma/github-profile-trophy
