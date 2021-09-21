@@ -18,16 +18,17 @@
 
 <p align=center>
  ^ <br>
- /_\ <br>
- |&nbsp;&nbsp;:| <br>
- |0.| <br>
- /]&nbsp;&nbsp;:[\ <br>
- /_]_.[_\  <br>
-(&nbsp;&nbsp;) <br>
- \&nbsp;/ <br>
- || <br>
- ||
+ / _ \ <br>
+ | &nbsp;&nbsp;: | <br>
+ | 0. | <br>
+ /]&nbsp;&nbsp;&nbsp;: [\ <br>
+ /__] _. [__\  <br>
+(&nbsp;&nbsp;&nbsp;&nbsp;) <br>
+ \&nbsp;&nbsp;/ <br>
+ | | <br>
+ | |
 </p>
+
 <!--
 nyttige lenker:
 https://github.com/ryo-ma/github-profile-trophy
