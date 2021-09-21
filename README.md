@@ -1,4 +1,4 @@
-[![Paal's top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paalss&layout=compact&exclude_lang=java+r&theme=blue-green)](https://github.com/paalss/github-readme-stats)
+![Paal's top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paalss&layout=compact&exclude_lang=java+r&theme=blue-green)
 
 <!--
 nyttige lenker:
