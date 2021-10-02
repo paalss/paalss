@@ -1,34 +1,57 @@
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paalss&layout=compact&exclude_lang=java+r&theme=blue-green" align="left" alt="Paals mostly used programming languages">
+<div align="right">
+  <div width="150" align="center">
+   ^ <br>
+   / _ \ <br>
+   | &nbsp;&nbsp;: | <br>
+   | 0. | <br>
+   /]&nbsp;&nbsp;&nbsp;: [\ <br>
+   /__] _. [__\  <br>
+  (&nbsp;&nbsp;&nbsp;&nbsp;) <br>
+   \&nbsp;&nbsp;/ <br>
+   | | <br>
+   | |
+  </div>
+</div>
+
+
+
+
+
+
+<br>e
+<br>e
+<br>e
+<br>e
+<br>e
+<br>e
+<br>e
+<br>e
+<br>e
+<br>e
+<br>e
+<br>e
+
+  <pre align="right" width="150">
+    <p align="center">
+     ^
+     /_\
+     | :|
+     |0.|
+     /] :[\
+     /_]_.[_\
+    (  )
+     \ /
+     ||
+     ||
+    </p>
+  </pre>
+ 
+ <img width="120" height="120" alt="Browserslist logo by Anton Lovchikov"
+     src="https://browserslist.github.io/browserslist/logo.svg" align="right">
+
 ![Paal's top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paalss&layout=compact&exclude_lang=java+r&theme=blue-green)
-
-
-<pre>
-  <p align=center>
-   ^
-   /_\
-   | :|
-   |0.|
-   /] :[\
-   /_]_.[_\
-  (  )
-   \ /
-   ||
-   ||
-  </p>
-</pre>
-
-<p align=center>
- ^ <br>
- / _ \ <br>
- | &nbsp;&nbsp;: | <br>
- | 0. | <br>
- /]&nbsp;&nbsp;&nbsp;: [\ <br>
- /__] _. [__\  <br>
-(&nbsp;&nbsp;&nbsp;&nbsp;) <br>
- \&nbsp;&nbsp;/ <br>
- | | <br>
- | |
-</p>
-
 <!--
 nyttige lenker:
 https://github.com/ryo-ma/github-profile-trophy
