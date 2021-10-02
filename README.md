@@ -1,7 +1,7 @@
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paalss&langs_count=3&theme=blue-green" align=left alt="Paals most used programming languages">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paalss&layout=compact&exclude_lang=java+r&theme=blue-green" align="left" alt="Paals mostly used programming languages">
-<div align="right">
-  <div width="150" align="center">
+
+  <div align="center">
    ^ <br>
    / _ \ <br>
    | &nbsp;&nbsp;: | <br>
@@ -10,48 +10,57 @@
    /__] _. [__\  <br>
   (&nbsp;&nbsp;&nbsp;&nbsp;) <br>
    \&nbsp;&nbsp;/ <br>
-   | | <br>
-   | |
+   || <br>
+   ||
   </div>
-</div>
+
+<br>.
+<br>.
+<br>.
+
+
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paalss&layout=compact&exclude_lang=java+r&langs_count=10&theme=blue-green" align=left alt="Paals most used programming languages">
+
+
+  <div align="center">
+   ^ <br>
+   / _ \ <br>
+   | &nbsp;&nbsp;: | <br>
+   | 0. | <br>
+   /]&nbsp;&nbsp;&nbsp;: [\ <br>
+   /__] _. [__\  <br>
+  (&nbsp;&nbsp;&nbsp;&nbsp;) <br>
+   \&nbsp;&nbsp;/ <br>
+   || <br>
+   ||
+  </div>
+
+
+<br>.
+<br>.
+<br>.
 
 
 
 
-
-
-<br>e
-<br>e
-<br>e
-<br>e
-<br>e
-<br>e
-<br>e
-<br>e
-<br>e
-<br>e
-<br>e
-<br>e
-
-  <pre align="right" width="150">
-    <p align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paalss&layout=compact&exclude_lang=java+r&theme=blue-green" align=left alt="Paals mostly used programming languages">
+  <pre>
+    <div align="center">
      ^
      /_\
      | :|
      |0.|
      /] :[\
      /_]_.[_\
-    (  )
+     (  )
      \ /
      ||
      ||
-    </p>
+    </div>
   </pre>
- 
- <img width="120" height="120" alt="Browserslist logo by Anton Lovchikov"
-     src="https://browserslist.github.io/browserslist/logo.svg" align="right">
 
-![Paal's top languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=paalss&layout=compact&exclude_lang=java+r&theme=blue-green)
+
 <!--
 nyttige lenker:
 https://github.com/ryo-ma/github-profile-trophy
