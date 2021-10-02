@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paalss&langs_count=3&theme=blue-green" align=left alt="Paals most used programming languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paalss&langs_count=4&theme=blue-green" align=left alt="Paals most used programming languages">
 
 
   <div align="center">
@@ -14,6 +14,8 @@
    ||
   </div>
 
+<br>
+<br>.
 <br>.
 <br>.
 <br>.
@@ -33,7 +35,6 @@
   (&nbsp;&nbsp;&nbsp;&nbsp;) <br>
    \&nbsp;&nbsp;/ <br>
    || <br>
-   ||
   </div>
 
 
@@ -65,6 +66,7 @@
 nyttige lenker:
 https://github.com/ryo-ma/github-profile-trophy
 https://github.com/Naereen/badges
+https://github.com/anuraghazra/github-readme-stats
 
 **paalss/paalss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
