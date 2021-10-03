@@ -18,9 +18,9 @@ paalss/README.md
    | 0. | <br>
    /]&nbsp;&nbsp;&nbsp;: [\ <br>
    /__] _. [__\  <br>
-  | | | | <br>
-   | | | <br>
-   | | <br>
+  | | |  <br>
+   | |  <br>
+   |  <br>
    |
   </div>
 <br>
