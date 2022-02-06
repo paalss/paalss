@@ -34,8 +34,8 @@
 
 ### Testing
 
-<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" alt="puppeteer">
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest">
+<img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white" alt="puppeteer">
 
 ### Environments
 
@@ -67,10 +67,10 @@
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy">
 
 ## Annet
-<a href="">
+<a href="https://scratch.mit.edu/users/pa0110/">
   <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" alt="scratch">
 </a>
-<a href="">
+<a href="https://steamcommunity.com/profiles/76561198347222518/">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam">
 </a>
 <a href="">
