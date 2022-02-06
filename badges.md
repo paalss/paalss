@@ -2,11 +2,11 @@
 
 # Badges
 - https://github.com/alexandresanlim/Badges4-README.md-Profile
+- https://webbadge.netlify.app/
 - https://www.sitepoint.com/github-profile-readme/?utm_source=newsletter&utm_medium=email&utm_campaign=create_an_impressive_github_profile_in_minutes&utm_term=2022-02-05
 - https://github.com/Naereen/badges
 - https://github.com/devicons/devicon/
 - https://shields.io/
-
 
 
 
